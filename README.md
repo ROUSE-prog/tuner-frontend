@@ -1,8 +1,10 @@
-# React + Vite
+# Tuner Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Tuner Frontend is a sleek and modern React application built with Vite, styled-components, and Axios to interact with the Tuner API. This application allows users to manage their music playlist by adding, viewing, and deleting songs.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Add Songs**: Add new songs to your playlist.
+- **View Songs**: View a list of all songs in your playlist.
+- **Delete Songs**: Remove songs from your playlist.
+- **Modern UI**: A sleek, black, transparent UI for a modern look.
